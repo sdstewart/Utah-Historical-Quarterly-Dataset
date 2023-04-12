@@ -1,6 +1,7 @@
 # Utah Historical Quarterly Dataset
 
-Datasets from the article: "Who Tells Your Story? Analyzing a Century of Utah History" Utah Historical Quarterly 91, no. 1 (2023): 40-55. Link: https://scholarlypublishingcollective.org/uip/uhq/article-abstract/91/1/40/343256/Who-Tells-Your-Story-Analyzing-a-Century-of-Utah
+Datasets from the article: "Who Tells Your Story? Analyzing a Century of Utah History" Utah Historical Quarterly 91, no. 1 (2023): 40-55. 
+Link: https://scholarlypublishingcollective.org/uip/uhq/article-abstract/91/1/40/343256/Who-Tells-Your-Story-Analyzing-a-Century-of-Utah
 
 Datasets were created by Spencer Stewart, Eliza McKinney, Dakota Bybee, and Seth Van Duzor. Special thanks to Holly George, Jed Rogers, and the Utah State Historical Society. 
 
