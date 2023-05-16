@@ -12,6 +12,6 @@ Datasets were created by Spencer Stewart, Eliza McKinney, Dakota Bybee, and Seth
 *Citation Dataset (CSV)*: Contains metadata for scholarship that cited UHQ articles. (Obtained from Google Scholar in May 2022)
 
 Note on gender:
-The gender prediction package that we used was created by Lincoln Mullen and draws from historical census records to predict a person's assigned gender at birth. When available, we consulted author bios or other historical sources to avoid any unintentional misgendering. But we still recognize that this approach doesn't account for complex gender identities. Despite the problems of gender classification in data analysis, we nevertheless still found this approach illustrative in highlighting the sharp disparity in representation between men and women in the quarterly. 
+The gender prediction package that we used was created by Lincoln Mullen and draws from historical census records to predict a person's assigned gender at birth. When available, we consulted author bios or other historical sources to avoid any unintentional misgendering. But we still recognize that this approach doesn't account for the full spectrum of gender identities. Despite the problems of gender classification in data analysis, we nevertheless still found this approach illustrative in highlighting the sharp disparity in representation between men and women in the quarterly. 
 
 Lincoln Mullen (2021). gender: Predict Gender from Names Using Historical Data. R package version 0.6.0. https://github.com/lmullen/gender
